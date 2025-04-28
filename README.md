@@ -9,7 +9,7 @@
 ## Test it locally
 ### To test the project on your local system, follow the steps mentioned bellow:
 
-Firstly, clone the repository using:
+First, clone the repository using:
 
 ```sh
 git clone https://github.com/siddhant-k08/balloon_dex.git
